@@ -1,3 +1,4 @@
+# Se crea la clase Libro para el funcionamiento del codigo, se crea sin atributos ni metodos.
 class Libro:
     pass
 
